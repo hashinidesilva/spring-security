@@ -1,10 +1,10 @@
-package com.hashini.springsecurity;
+package com.hashini.springsecurityjdbc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityApplicationTests {
+class SpringSecurityJdbcApplicationTests {
 
 	@Test
 	void contextLoads() {

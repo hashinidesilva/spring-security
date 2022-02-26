@@ -1,13 +1,13 @@
-package com.hashini.springsecurity;
+package com.hashini.springsecurityjdbc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityApplication {
+public class SpringSecurityJdbcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityApplication.class, args);
+		SpringApplication.run(SpringSecurityJdbcApplication.class, args);
 	}
 
 }
